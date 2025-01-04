@@ -20,3 +20,53 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+ENV/
+*.env
+*.venv
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE and Editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# Logs and databases
+*.log
+*.sqlite3
+*.dat
+
+# Wallet and private keys
+*.wallet
+*.key
+
+# Blockchain data
+blockchain.dat
+
+# Test outputs
+test-results/
+*.coverage
+
+# Debug and profiling files
+debug.log
+*.prof
+
+# Temporary files
+*.tmp
+*.temp
